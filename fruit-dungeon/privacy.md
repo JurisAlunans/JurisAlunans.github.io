@@ -5,7 +5,7 @@ permalink: /fruit-dungeon/privacy/
 
 # Fruit Dungeon: privacy policy
 
-*Last updated: 15 October 2026*
+*Last updated: 26 October 2026*
 
 Fruit Dungeon is a game for Android phones, made by Mārcis Čaupjonoks
 ("I" below). This page says what the game keeps, what its ads collect,
@@ -79,6 +79,15 @@ above. You can read all of it, change it or delete it before sending, and
 nothing is sent unless you send it. If you do, I receive your email
 address and that message, and use them only to answer you and to fix the
 game.
+
+## Rating the game
+
+Now and then, after a won run, Google Play may show its own small card
+to rate the game; **Settings → Rate the game** opens the game's page on
+Google Play instead. Either way, the stars and words you give go to
+**Google Play**, as your review of the game (public, under your Google
+account, as with any review), under Google's privacy policy. The game
+itself never sees them, nor whether you rated it.
 
 ## Children
 
