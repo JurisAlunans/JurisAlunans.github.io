@@ -5,7 +5,7 @@ permalink: /fruit-dungeon/privacy/
 
 # Fruit Dungeon: privacy policy
 
-*Last updated: 26 October 2026*
+*Last updated: 7 November 2026*
 
 Fruit Dungeon is a game for Android phones, made by Mārcis Čaupjonoks
 ("I" below). This page says what the game keeps, what its ads collect,
@@ -14,10 +14,10 @@ how purchases work, and the choices you have.
 ## What the game keeps: on your phone only
 
 The game remembers your run in progress, your settings, your records
-(wins, best floors, the last runs, the monsters you've met), your
-achievements, which packs you bought, and a short note of the last
-errors in the game, if any (what went wrong, and where in the game's
-code). All of it stays **on your phone**. The game has no
+(wins, best floors, the last runs, the monsters you've met and what
+you've found), your achievements, which packs you bought, and a short
+note of the last errors in the game, if any (what went wrong, and where
+in the game's code). All of it stays **on your phone**. The game has no
 accounts, asks for no name or email, and has no server of its own: I
 never receive any of it, unless you send me a problem report (below).
 
@@ -88,6 +88,14 @@ Google Play instead. Either way, the stars and words you give go to
 **Google Play**, as your review of the game (public, under your Google
 account, as with any review), under Google's privacy policy. The game
 itself never sees them, nor whether you rated it.
+
+## The daily reminder
+
+If you turn it on (it's off until you do), the game asks your phone to
+show a notification when each day's daily run is out. The reminders are
+planned on your phone, from the date alone: nothing is sent anywhere, and
+nobody else learns that you turned them on. Turn them off in **Settings →
+Daily reminder**, or in your phone's notification settings.
 
 ## Children
 
